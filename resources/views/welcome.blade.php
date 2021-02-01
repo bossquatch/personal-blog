@@ -108,7 +108,7 @@
                         </div>
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                             <div class="flex items-center">
-                                <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 158.29 200.7"><rect x="20.06" width="18.95" height="200.7" style="fill:#a0aec0"/><polyline points="20.06 40.02 0 40.02 0 21.06 20.06 21.06" style="fill:#a0aec0"/><polyline points="39.02 21.06 158.29 21.06 158.29 40.02 39.02 40.02" style="fill:#a0aec0"/><rect x="48.18" y="46.78" width="101.09" height="67.84" rx="5.65" style="fill:#a0aec0"/></svg>
+                                <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 158.29 200.7" width="24"><rect x="20.06" width="18.95" height="200.7" style="fill:#a0aec0"/><polyline points="20.06 40.02 0 40.02 0 21.06 20.06 21.06" style="fill:#a0aec0"/><polyline points="39.02 21.06 158.29 21.06 158.29 40.02 39.02 40.02" style="fill:#a0aec0"/><rect x="48.18" y="46.78" width="101.09" height="67.84" rx="5.65" style="fill:#a0aec0"/></svg>
                                 <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">This space for rent</div>
                             </div>
 
