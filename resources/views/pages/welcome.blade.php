@@ -59,12 +59,12 @@
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700">
                             <div class="flex items-center">
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://foxnews.com/" class="underline text-gray-900 dark:text-white">Latest News</a></div>
+                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://foxnews.com/" class="underline text-gray-900 dark:text-white">My Team</a></div>
                             </div>
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    I can't wait to fill this in!
+                                    <iframe width="420" height="230" src="https://www.youtube.com/embed/9tOlTDS10gI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
@@ -78,6 +78,30 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <img src="/images/me.jpg">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
+                            <div class="flex items-center">
+                                <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 259.59 405.24" width="24"><polygon points="196.59 402.24 176.59 382.24 176.59 183.76 172.87 187.48 158.72 193.34 140.86 193.34 140.86 260.53 135 274.68 115 294.68 100.86 300.53 83 300.53 83 382.24 63 402.24 23 402.24 3 382.24 3 260.53 8.86 246.39 28.86 226.39 43 220.53 60.86 220.53 60.86 153.34 66.72 139.2 86.72 119.2 100.86 113.34 118.72 113.34 118.72 43 124.58 28.86 144.58 8.86 158.72 3 216.59 3 230.73 8.86 250.73 28.86 256.59 43 256.59 382.24 236.59 402.24 196.59 402.24" style="fill:none;stroke:#a0aec0;stroke-miterlimit:10;stroke-width:6px"/><polygon points="236.59 382.24 196.59 382.24 196.59 63 178.72 63 178.72 153.34 158.72 173.34 120.86 173.34 120.86 260.53 100.86 280.53 63 280.53 63 382.24 23 382.24 23 260.53 43 240.53 80.86 240.53 80.86 153.34 100.86 133.34 138.72 133.34 138.72 43 158.72 23 216.59 23 236.59 43 236.59 382.24" style="fill:none;stroke:#a0aec0;stroke-miterlimit:10;stroke-width:6px"/><polyline points="216.59 382.24 216.59 43 158.72 43 158.72 153.34 100.86 153.34 100.86 260.53 43 260.53 43 382.24" style="fill:none;stroke:#a0aec0;stroke-miterlimit:10;stroke-width:6px"/></svg>
+                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">My thoughts on going back to the office</div>
+                            </div>
+
+                            <div class="ml-12">
+                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                                    <iframe width="420" height="230" src="https://www.youtube.com/embed/1Npo0cmp-VY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
+                            <div class="flex items-center">
+                                <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 158.29 200.7" width="24"><rect x="20.06" width="18.95" height="200.7" style="fill:#a0aec0"/><polyline points="20.06 40.02 0 40.02 0 21.06 20.06 21.06" style="fill:#a0aec0"/><polyline points="39.02 21.06 158.29 21.06 158.29 40.02 39.02 40.02" style="fill:#a0aec0"/><rect x="48.18" y="46.78" width="101.09" height="67.84" rx="5.65" style="fill:#a0aec0"/></svg>
+                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">This space for rent</div>
+                            </div>
+
+                            <div class="ml-12">
+                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                                    <img src="/images/rent.jpg">
                                 </div>
                             </div>
                         </div>
@@ -119,7 +143,7 @@
                                     <iframe width="560" height="315" src="https://www.youtube.com/embed/rJGhA2vLdA4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <iframe width="560" height="315" src="https://www.youtube.com/embed/TKQyPfN6s88" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <iframe width="560" height="315" src="https://www.youtube.com/embed/pebaBnA6PTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <iframe width="560" height="315" src="/images/patrick.gif" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe width="560" height="315" src="/images/patrick_eating.gif" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <iframe width="560" height="315" src="https://www.youtube.com/embed/YDXduFEjiQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <iframe width="560" height="315" src="https://www.youtube.com/embed/II1x9ptMZag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <iframe width="560" height="315" src="https://www.youtube.com/embed/FiG-ZfnYkl0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
