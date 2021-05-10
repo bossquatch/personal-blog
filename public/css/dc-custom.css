@@ -1,0 +1,21 @@
+.dc-text-bright-blue {
+  color: #52adfd !important;
+}
+
+a {
+  color: #52adfd;
+  text-decoration: none;
+  outline: none;
+  transition: all 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #FF9800;
+  text-decoration: none;
+  outline: none;
+}
+
+a:focus {
+  outline: 0;
+  text-decoration: none;
+}
