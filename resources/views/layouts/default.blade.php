@@ -35,7 +35,7 @@
     <script src='{{ asset('js/masonry.pkgd.min.js') }}'></script>
     <script src='{{ asset('js/owl.carousel.min.js') }}'></script>
     <script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
-    <script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCQa-y_svQsTxbO8tqWiqKOtLIdlLcp4bA'></script>
+    <script src='https://maps.googleapis.com/maps/api/js?key='></script>
     <script src="{{ asset('js/jquery.googlemap.js') }}"></script>
     <script src="{{ asset('js/validator.js') }}"></script>
     <script src="{{ asset('js/main.js') }}"></script>
