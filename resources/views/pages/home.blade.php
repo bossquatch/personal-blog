@@ -288,7 +288,7 @@
                         <div class="lm-info-block gray-default">
                             <i class="fas fa-beer dc-text-bright-blue"></i>
                             <h4>2021 Beverages Consumed</h4>
-                            <span class="lm-info-block-value">1,286</span>
+                            <span class="lm-info-block-value">286</span>
                             <span class="lm-info-block-text"></span>
                         </div>
                     </div>
