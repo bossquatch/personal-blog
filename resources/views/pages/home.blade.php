@@ -260,7 +260,7 @@
                     <div class="col-xs-12 col-sm-3">
                         <div class="lm-info-block gray-default">
                             <i class="fas fa-dollar-sign dc-text-bright-blue"></i>
-                            <h4>Current Budget Oversight</h4>
+                            <h4>Budget Oversight</h4>
                             <span class="lm-info-block-value">$3.5M</span>
                             <span class="lm-info-block-text"></span>
                         </div>
@@ -269,8 +269,8 @@
                     <div class="col-xs-12 col-sm-3">
                         <div class="lm-info-block gray-default">
                             <i class="fas fa-users dc-text-bright-blue"></i>
-                            <h4>Current Resources Managed</h4>
-                            <span class="lm-info-block-value">13</span>
+                            <h4>Managed Resources</h4>
+                            <span class="lm-info-block-value">7</span>
                             <span class="lm-info-block-text"></span>
                         </div>
                     </div>
