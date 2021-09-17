@@ -278,8 +278,8 @@
                     <div class="col-xs-12 col-sm-3 ">
                         <div class="lm-info-block gray-default">
                             <i class="fas fa-fighter-jet dc-text-bright-blue"></i>
-                            <h4>Current Projects In-Flight</h4>
-                            <span class="lm-info-block-value">9</span>
+                            <h4>Miles this week</h4>
+                            <span class="lm-info-block-value">21.7</span>
                             <span class="lm-info-block-text"></span>
                         </div>
                     </div>
@@ -287,8 +287,8 @@
                     <div class="col-xs-12 col-sm-3 ">
                         <div class="lm-info-block gray-default">
                             <i class="fas fa-beer dc-text-bright-blue"></i>
-                            <h4>2021 Beverages Consumed</h4>
-                            <span class="lm-info-block-value">286</span>
+                            <h4>Steps this week</h4>
+                            <span class="lm-info-block-value">82,657</span>
                             <span class="lm-info-block-text"></span>
                         </div>
                     </div>
