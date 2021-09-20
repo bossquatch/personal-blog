@@ -279,7 +279,7 @@
                         <div class="lm-info-block gray-default">
                             <i class="fas fa-drafting-compass dc-text-bright-blue"></i>
                             <h4>Miles this week</h4>
-                            <span class="lm-info-block-value">21.7</span>
+                            <span class="lm-info-block-value">23.29</span>
                             <span class="lm-info-block-text"></span>
                         </div>
                     </div>
@@ -288,7 +288,7 @@
                         <div class="lm-info-block gray-default">
                             <i class="fas fa-walking dc-text-bright-blue"></i>
                             <h4>Steps this week</h4>
-                            <span class="lm-info-block-value">82,657</span>
+                            <span class="lm-info-block-value">90,227</span>
                             <span class="lm-info-block-text"></span>
                         </div>
                     </div>
