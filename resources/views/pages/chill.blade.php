@@ -109,6 +109,17 @@
             <span class="category">YouTube Videos</span>
         </figure>
 
+        <figure class="item lbvideo" data-groups='["category_all", "category_youtube-videos"]'>
+            <div class="portfolio-item-img">
+                <img src="images/portfolio/6.jpg" alt="python" title="" />
+                <a href="https://www.youtube.com/watch?v=vwcGumC9k98" class="lightbox mfp-iframe" title="python"></a>
+            </div>
+
+            <i class="fas fa-video"></i>
+            <h4 class="name">Not a day goes by that this doesn't run through my head at least five times.</h4>
+            <span class="category">YouTube Videos</span>
+        </figure>
+
     </div>
 </div>
 @stop
