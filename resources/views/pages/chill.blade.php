@@ -112,7 +112,7 @@
         <figure class="item lbvideo" data-groups='["category_all", "category_youtube-videos"]'>
             <div class="portfolio-item-img">
                 <img src="images/portfolio/6.jpg" alt="python" title="" />
-                <a href="https://www.youtube.com/watch?v=vwcGumC9k98" class="lightbox mfp-iframe" title="python"></a>
+                <a href="https://www.youtube.com/embed/vwcGumC9k98" class="lightbox mfp-iframe" title="python"></a>
             </div>
 
             <i class="fas fa-video"></i>
