@@ -15,7 +15,7 @@
 
                                 <div class="col-sm-12 col-md-5 col-lg-5">
                                     <div class="home-photo">
-                                        <div class="hp-inner" style="background-image: url(images/head_doug.png);">
+                                        <div class="hp-inner" style="background-image: url(/images/head_doug.png);">
                                         </div>
                                     </div>
                                 </div>
@@ -251,7 +251,7 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-12">
                         <div class="block-title">
-                            <h2>Fun Facts</h2>
+                            <h2>Skills</h2>
                         </div>
                     </div>
                 </div>
@@ -260,16 +260,15 @@
                     <div class="col-xs-12 col-sm-3">
                         <div class="lm-info-block gray-default">
                             <i class="fas fa-dollar-sign dc-text-bright-blue"></i>
-                            <h4>Budget Oversight</h4>
+                            <h4>Development</h4>
                             <span class="lm-info-block-value">$3.5M</span>
-                            <span class="lm-info-block-text"></span>
                         </div>
                     </div>
 
                     <div class="col-xs-12 col-sm-3">
                         <div class="lm-info-block gray-default">
                             <i class="fas fa-users dc-text-bright-blue"></i>
-                            <h4>Managed Resources</h4>
+                            <h4>Project Management</h4>
                             <span class="lm-info-block-value">7</span>
                             <span class="lm-info-block-text"></span>
                         </div>
@@ -278,7 +277,7 @@
                     <div class="col-xs-12 col-sm-3 ">
                         <div class="lm-info-block gray-default">
                             <i class="fas fa-drafting-compass dc-text-bright-blue"></i>
-                            <h4>Miles this week</h4>
+                            <h4>Leadership</h4>
                             <span class="lm-info-block-value">33.20</span>
                             <span class="lm-info-block-text"></span>
                         </div>
@@ -287,7 +286,7 @@
                     <div class="col-xs-12 col-sm-3 ">
                         <div class="lm-info-block gray-default">
                             <i class="fas fa-walking dc-text-bright-blue"></i>
-                            <h4>Steps since Sept</h4>
+                            <h4>Management</h4>
                             <span class="lm-info-block-value">1,430,783</span>
                             <span class="lm-info-block-text"></span>
                         </div>
