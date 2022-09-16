@@ -20,3 +20,4 @@ window.dataLayer = window.dataLayer || [];
 <script src="js/jquery.googlemap.js"></script>
 <script src="js/validator.js"></script>
 <script src="js/main.js"></script>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>

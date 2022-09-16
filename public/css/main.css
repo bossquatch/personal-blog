@@ -6210,5 +6210,23 @@ a.post-thumbnail:hover {
     margin-right: -70px;
     z-index: 1;
   }
+
+  .linked-in.card {
+      margin: 20px;
+  }
+    .dc-info-block {
+        position: relative;
+        text-align: left;
+        width: 100%;
+        display: block;
+        margin: 0 0 15px;
+        background-color: #333;
+        padding: 25px 10px 15px;
+        border: 2px solid #444;
+        border-radius: 10px;
+        box-shadow: none;
+        overflow: hidden;
+        transition: all 0.2s ease-in-out;
+    }
 }
 

@@ -3,7 +3,7 @@
 <head>
 
     <title>
-        {{ $title ?? 'Bossquatch' }}
+        {{ $title ?? 'Douglas Cockerham' }}
     </title>
 
     <!-- Fonts -->
@@ -26,5 +26,6 @@
     <link rel="stylesheet" href="{{ asset('css/dc-custom.css') }}" type="text/css">
 
     <script src="{{ asset('js/modernizr.custom.js') }}"></script>
+    <script src="https://kit.fontawesome.com/1327c24680.js" crossorigin="anonymous"></script>
 
 </head>

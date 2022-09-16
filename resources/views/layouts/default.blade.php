@@ -1,4 +1,4 @@
-@include('includes.head',['title' => 'Bossquatch - Home'])
+@include('includes.head',['title' => 'Douglas Cockerham - Home'])
 
 <body class="page">
 
@@ -27,18 +27,5 @@
         </div>
     </div>
     @include('includes.scripts')
-{{--    <script src="{{ asset('js/jquery-3.5.1.min.js') }}"></script>--}}
-{{--    <script src="{{ asset('js/imagesloaded.pkgd.min.js') }}"></script>--}}
-{{--    <script src='{{ asset('https://www.google.com/recaptcha/api.js') }}'></script>--}}
-{{--    <script src="{{ asset('js/bootstrap.min.js') }}"></script>--}}
-{{--    <script src='{{ asset('js/jquery.shuffle.min.js') }}'></script>--}}
-{{--    <script src='{{ asset('js/masonry.pkgd.min.js') }}'></script>--}}
-{{--    <script src='{{ asset('js/owl.carousel.min.js') }}'></script>--}}
-{{--    <script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>--}}
-{{--    <script src='https://maps.googleapis.com/maps/api/js?key='></script>--}}
-{{--    <script src="{{ asset('js/jquery.googlemap.js') }}"></script>--}}
-{{--    <script src="{{ asset('js/validator.js') }}"></script>--}}
-{{--    <script src="{{ asset('js/main.js') }}"></script>--}}
-
 </body>
 </html>

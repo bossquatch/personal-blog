@@ -11,8 +11,8 @@
               <div id="content" class="page-content site-content single-post" role="main">
 
                 <div class="row">
-                  <div class="col-xs-12 col-sm-12">
-                    <div id="map" class="map"></div>
+                  <div class="col-xs-12 col-sm-12 pb-5">
+                    <img src="/images/mailboxes.jpg" alt="Mailboxes">
                   </div>
                 </div>
 
@@ -26,7 +26,7 @@
                           <i class="linecons linecons-phone"></i>
                         </div>
                         <div class="ci-text">
-                          <h4><a href="tel:(813) 731-1457" class="text-decoration-none">(813) 731-1457</a></h4>
+                          <h4><a href="tel:(813) 699-0060" class="text-decoration-none">(813) 699-0060</a></h4>
                           <p>Call, text, try to sell me an extended warranty for my car.</p>
                         </div>
                       </div>
@@ -47,8 +47,8 @@
                           <i class="linecons linecons-mail"></i>
                         </div>
                         <div class="ci-text">
-                          <h4>boss@bossquatch.com</h4>
-                          <p>Send me something, I might even reply.</p>
+                          <h6>douglascockerham@eloquence.digital</h6>
+                          <p>Send me something, I may even reply.</p>
                         </div>
                       </div>
                     </div>
@@ -56,7 +56,7 @@
                   </div>
 
 
-                  <div class=" col-xs-12 col-sm-8 ">
+                  <div class=" col-xs-12 col-sm-8">
 
                     <div class="block-title">
                       <h2>How Can I Help You?</h2>
