@@ -17,7 +17,7 @@
                 </div>
 
                 <div class="row">
-                  <div class=" col-xs-12 col-sm-4 ">
+                  <div class=" col-xs-12 col-sm-5">
 
                     <div id="info_list_1" class="info-list-w-icon">
 
@@ -56,7 +56,7 @@
                   </div>
 
 
-                  <div class=" col-xs-12 col-sm-8">
+                  <div class=" col-xs-12 col-sm-7">
 
                     <div class="block-title">
                       <h2>How Can I Help You?</h2>
